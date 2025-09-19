@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "MidAct1",
     "slug": "MidAct1",
+=======
+    "name": "Project_IT_Elect",
+    "slug": "Project_IT_Elect",
+>>>>>>> 1ac8aa3 (Activity5)
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "midact1",
+=======
+  "name": "project_it_elect",
+>>>>>>> 1ac8aa3 (Activity5)
   "license": "0BSD",
   "version": "1.0.0",
   "main": "index.js",
@@ -10,7 +14,11 @@
     "web": "expo start --web"
   },
   "dependencies": {
+<<<<<<< HEAD
     "expo": "~54.0.7",
+=======
+    "expo": "~54.0.6",
+>>>>>>> 1ac8aa3 (Activity5)
     "expo-status-bar": "~3.0.8",
     "react": "19.1.0",
     "react-native": "0.81.4"
